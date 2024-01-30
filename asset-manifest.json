@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/jen/static/css/main.ed21557e.css",
+    "main.js": "/jen/static/js/main.6c0080e2.js",
+    "static/js/787.1937f22b.chunk.js": "/jen/static/js/787.1937f22b.chunk.js",
+    "static/media/slider1.png": "/jen/static/media/slider1.a35991eca6ddfcb686b8.png",
+    "static/media/slider3.png": "/jen/static/media/slider3.55d6fbcc892905bee8bf.png",
+    "static/media/slider2.png": "/jen/static/media/slider2.f6c4225ddabdbbec8564.png",
+    "static/media/shirt3.png": "/jen/static/media/shirt3.62a2f02efac8802355f8.png",
+    "static/media/shirt2.png": "/jen/static/media/shirt2.5ff6afd88e3184a5e0e2.png",
+    "static/media/tshirt3.png": "/jen/static/media/tshirt3.3f1403bf7d33bea77329.png",
+    "static/media/track2.png": "/jen/static/media/track2.633b6ff1b60b862d128a.png",
+    "static/media/shirt1.png": "/jen/static/media/shirt1.234a6fff73241011dec3.png",
+    "static/media/pant3.png": "/jen/static/media/pant3.e2addffbc219a25b3d94.png",
+    "static/media/shirt.png": "/jen/static/media/shirt.529653dfb1301f681d57.png",
+    "static/media/track3.png": "/jen/static/media/track3.35b05d56d57871dcb430.png",
+    "static/media/track1.png": "/jen/static/media/track1.eeba3e3358cec1aaaf92.png",
+    "static/media/pant2.png": "/jen/static/media/pant2.223d9a9dde493d81667a.png",
+    "static/media/track.png": "/jen/static/media/track.726ddb3b7291b851c395.png",
+    "static/media/pant1.png": "/jen/static/media/pant1.8fd265aa83f42ecb1b4d.png",
+    "static/media/pant.png": "/jen/static/media/pant.b3f37f2e7c63dc28c0cf.png",
+    "static/media/tshirt.png": "/jen/static/media/tshirt.829aa83bd01238e11940.png",
+    "static/media/tshirt1.png": "/jen/static/media/tshirt1.fc929ea3992054cd368c.png",
+    "static/media/logo.png": "/jen/static/media/logo.92d095cda916f6e29df6.png",
+    "static/media/revicons.eot": "/jen/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/jen/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/jen/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/jen/index.html",
+    "main.ed21557e.css.map": "/jen/static/css/main.ed21557e.css.map",
+    "main.6c0080e2.js.map": "/jen/static/js/main.6c0080e2.js.map",
+    "787.1937f22b.chunk.js.map": "/jen/static/js/787.1937f22b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed21557e.css",
+    "static/js/main.6c0080e2.js"
+  ]
+}
